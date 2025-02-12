@@ -12,9 +12,9 @@ This is a simple web-based application for file backup and restore, to be hosted
 -> Set up an S3 bucket  
 -> On your local system connect to the EC2 instance using SSH  
 -> Go to the project directory and make sure the files are in the following structure:  
--/FileBackup  
-    app.js  
-    /public  
-        index.html  
-        style.css  
+/FileBackup  
+----app.js  
+----/public  
+--------index.html  
+--------style.css  
 -> Run the command "node app.js"
