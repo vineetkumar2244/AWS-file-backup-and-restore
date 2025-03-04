@@ -18,3 +18,5 @@ This is a simple web-based application for file backup and restore, to be hosted
 --------index.html  
 --------style.css  
 -> Run the command "node app.js"
+
+This project serves as a great practice for AWS beginners as it teaches them the basics of S3 buckets, EC2 instances and IAM roles.
